@@ -53,7 +53,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | Project title | Suggested by | Looking for ? | Likely Participants | Day/Days |
 |---------------|--------------|---------------|---------------------|----------|
 | [Likelihood-Free Inference Toolbox](https://github.com/LFITaskForce/FlatironMeeting/issues/10) | @EiffL | People with experience in (and strong feelings about ;-) ) open source software, probabilistic programming language, and practical LFI |                     | W-F      |
-| [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! | | W-F |
+| [NDEs for discrete (count) data](https://github.com/LFITaskForce/FlatironMeeting/issues/14) | @junstinalsing | People with background knowledge of conditional density estimation + general enthusiasm! |@bwandelt (also have ideas for purely categorical rather than count data) | W-F |
 | [Living review for likelihood-free inference](https://github.com/LFITaskForce/FlatironMeeting/issues/15) | @justinalsing | People with knowledge of some corner(s) of the LFI method space, and/or the practicalities of implementation in different scenarios. Energy for writing. |   | W-F |
 | [Bayesian optimization for delfi](https://github.com/LFITaskForce/FlatironMeeting/issues/16) | @justinalsing | People with Bayesian optimization knowhow |   | W-F |
 | [ELFI](https://github.com/LFITaskForce/FlatironMeeting/issues/20) | @hpesonen | People wanting to contribute to ELFI | @OwenThomas | W-F |
@@ -62,6 +62,7 @@ Once you have created a new hack issue, be sure to list in the table below.
 | [Porting LFI Techniques to Julia](https://github.com/LFITaskForce/FlatironMeeting/issues/35) | @dch216 | People with experience in Julia (or high-level programming in general) and development experience in an LFI technique |                     | W-F      |
 | [Using LFI on Exoplanet Count Data](https://github.com/LFITaskForce/FlatironMeeting/issues/36) | @dch216 | People with knowledge of how to apply an LFI technique to work with 2D-grid data |                     | W-F      |
 | [Benchmark problems](https://github.com/LFITaskForce/FlatironMeeting/issues/33) | @jan-matthis | | @johannbrehmer | W-F |
+
 
 ## Breakout tutorial sessions
 
